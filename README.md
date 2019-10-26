@@ -7,12 +7,8 @@ You can add your own datasets. All the values should be integers or decimal numb
 The first field should always be row number i.e. 1,2,3,4,5....
 
 
-sample output:
-....
-....
-0 -> 161 -> 2   43      157     181
+sample output:0 -> 161 -> 2       43      157     181
 
-....
 
 meaning:
 point 161 is moved from cluster0 to cluster2, cluster0 = 43 points ,cluster1 = 157 points, cluster2 = 181 points
